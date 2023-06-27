@@ -12,12 +12,13 @@ En este proyecto se crea un modelo de aprendizaje de máquina para detectar y re
 
 ## Archivos <a name="files"></a>
 1. **Riesgo crediticio.ipynb**: Notebook de Jupyter del proyecto. </br>
-2. **data/**: Folder con información en formato CSV.</br>
+2.**Riesgo crediticio.html**: Version HTML del notebook para visualización. </br>
+3. **data/**: Folder con información en formato CSV.</br>
 
 
 ## Instrucciones <a name="instructions"></a>
 1. Clonar repositorio
-2. Ejecutar notebook o visualizar en github.
+2. Ejecutar notebook, o abrir versión HTML, o visualizar en Github.
  
 
 ## Resultados <a name="results"></a>
